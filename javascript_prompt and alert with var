@@ -1,0 +1,15 @@
+
+var myname = " rohan ";
+var yourname = prompt("what is your name");
+alert("my name is " + myname + ",welcome to my page "  + newname1 + " ! ");
+
+var newname = " ghule ";
+
+var newname1 = "xylitedge";
+
+
+
+
+prompt(" hello ! ," + myname + newname + "welcome to " + newname1);
+
+
