@@ -1,0 +1,36 @@
+/* *{ for body changes */
+    *{
+        background-color: dimgrey;
+      }
+      /* id selectors */
+      #Red {
+        color: red;
+      }
+      
+      
+      #Yellow{
+        color:yellow;
+      }
+      #Green{
+        color: green;
+      }
+      
+      #Blue{
+        color: blue;
+      }
+      #Orange{
+        color:orange;
+      }
+      
+      
+      /* class selectors */
+      .color-title{
+        font-weight: normal;
+      }
+      
+      /* elment selctor (img) */
+      img{
+        height: 250px;
+        width: 250px;
+      }
+      
